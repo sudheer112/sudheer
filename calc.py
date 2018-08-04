@@ -1,8 +1,8 @@
-def add(x,y):
+def add(x+y):
 	pass
-def sub(x,y):
+def sub(x-y):
 	pass
-def mul(x,y):
+def mul(x*y):
 	pass
-def div(x,y):
+def div(x/y):
 	pass
